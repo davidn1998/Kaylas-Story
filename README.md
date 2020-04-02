@@ -17,7 +17,7 @@ The code should be mostly commented but there may be quite a bit of overhead tha
 
 ## Authors
 
-* **David Nwachukwu** - *Initial work* - [DavidNGames](http://davidngames.com/)
+* **David Nwachukwu** - *Initial work* - [DavidNData](https://davidndata.com/)
 
 ## Rights
 
