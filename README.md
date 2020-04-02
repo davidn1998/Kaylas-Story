@@ -18,7 +18,3 @@ The code should be mostly commented but there may be quite a bit of overhead tha
 ## Authors
 
 * **David Nwachukwu** - *Initial work* - [DavidNData](https://davidndata.com/)
-
-## Rights
-
-This project is for viewing purposes only and should not be taken, used, or modified in anyway. 
